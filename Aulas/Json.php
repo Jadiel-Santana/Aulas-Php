@@ -2,7 +2,7 @@
     $usuarios = array(
             "nome" => "Jadiel Barbosa Santana",
             "email" => "jadiel.bsantana@gmail.com",
-            "senha" => md5("jadielsantana")
+            "senha" => md5("1234567890")
     );
 
     echo "<br><hr><br>";
